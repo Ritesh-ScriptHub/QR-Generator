@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.createPost{
+    margin-top: 2rem;
+    border: 1px solid orange;
+    border-radius: 15px;
+    width: 19rem;
+    height: auto;
+}
