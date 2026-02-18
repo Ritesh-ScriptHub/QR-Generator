@@ -161,7 +161,7 @@ function LandingPage() {
       </section>
 
       <footer className="landing-footer">
-        <p>Built with React | Solodev</p>
+        <p>Built with React | Solodev - Ritesh | last updated: 18-Feb-2026</p>
       </footer>
     </div>
   );
