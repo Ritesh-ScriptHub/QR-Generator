@@ -5,13 +5,13 @@ import { platforms } from './LandingPage';
 import './GeneratePage.css';
 
 const platformLogos = {
-  instagram: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png',
-  twitter: 'https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png',
-  facebook: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png',
-  telegram: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg',
-  whatsapp: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg',
-  linkedin: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png',
-  youtube: 'https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg',
+  instagram: '/assets/instagram.png',
+  twitter: '/assets/twitter.png',
+  facebook: '/assets/Facebook.png',
+  telegram: '/assets/Telegram_logo.svg',
+  whatsapp: '/assets/WhatsApp.svg',
+  linkedin: '/assets/LinkedIn_logo.png',
+  youtube: '/assets/YouTube_logo.svg',
   custom: null,
 };
 
