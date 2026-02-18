@@ -6,6 +6,7 @@ Insta QR is a React-based tool designed to help creators and businesses share th
 
 ### ✨ Key Features
 * Smart Generation: QR codes are rendered only when a valid username is entered.
-* Story Cards:(In Progress) Downloadable cards optimized for Instagram Stories.
-* Brand Integration: (Coming Soon) Automatically fetches and embeds Instagram profile pictures.
+* Download QR: Now you can download QR codes as png file(optimised).
+* Story Cards: Downloadable cards (optimised).
+* Brand Integration: (Coming Soon) Automatically fetches and embeds Platform profile pictures.
 * DM Mode:(Coming Soon) Toggle to link directly to your Direct Messages.
