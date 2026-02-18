@@ -1,5 +1,5 @@
 import Like from "./Like";
-import Comment from "./comment";
+import Comment from "./Comment"
 import Send from "./Send";
 import BookMark from "./BookMark";
 
